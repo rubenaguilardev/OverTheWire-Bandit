@@ -17,3 +17,8 @@ Solution:
 
 Once inside the bandit0 machine, I used ls to view all the files on the home directory. The readme file was
 the only file in the directory. All I had to do was use the concatenate command to retrieve the password.
+
+<img width="1374" height="1304" alt="level0-1" src="https://github.com/user-attachments/assets/adc132bf-9460-4ffd-b556-f66d54380d56" />
+
+
+<img width="1374" height="1304" alt="level-1" src="https://github.com/user-attachments/assets/8433cbbd-fcdd-4a47-a3ba-178a1fda9483" />
