@@ -15,7 +15,7 @@ Passwords also occasionally change. It is recommended to take notes on how to so
 
 Solution: 
 
-I created a new secure shell file, gave it run permission using chmod. Once inside the bandit0 machine, I used ls to view all the files on the home directory. The readme file wasthe only file in the directory. All I had to do was use the concatenate command to retrieve the password.
+I created a new secure shell file, gave it run permission using chmod. Once inside the bandit0 machine, I used it to view all the files on the home directory. Since the readme was the only file in the directory, all I had to do was use the concatenate (cat) command to retrieve the password.
 
 <img width="1374" height="1304" alt="level0-1" src="https://github.com/user-attachments/assets/adc132bf-9460-4ffd-b556-f66d54380d56" />
 
