@@ -6,3 +6,7 @@ The goal of this level is for you to log into the game using SSH. The host to wh
 Commands you may need to solve this level
 ssh
 
+
+Solution: 
+
+I used Secure Shell to access the overthewire linux machine.
